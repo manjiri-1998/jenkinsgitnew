@@ -13,4 +13,9 @@ public class Test
 	{
 		System.out.println("hello m1 method");
 	}
+
+	public void m2()
+	{
+		System.out.println("hello m2 method");
+	}
 }
